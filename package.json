@@ -1,5 +1,5 @@
 {
-  "name": "JATE",
+  "name": "jate",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,7 +9,7 @@
     "server": "cd server nodemon server.js --ignore client",
     "build": "cd client && npm run build",
     "install": "cd client && npm start",
-    "client": "cd clieant && npm start"
+    "client": "cd client && npm start"
   },
   "keywords": [],
   "repository": {
