@@ -10,15 +10,14 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "css-loader": "^6.5.1",
-    "http-server": "^14.1.1",
-    "style-loader": "^3.3.1"
-  },
+  "devDependencies": {},
   "dependencies": {
     "code-mirror-themes": "^1.0.0",
     "idb": "^7.0.2",
     "workbox": "0.0.0",
+    "css-loader": "^6.5.1",
+    "http-server": "^14.1.1",
+    "style-loader": "^3.3.1",
     "@babel/core": "^7.16.8",
     "@babel/plugin-transform-runtime": "^7.18.10",
     "@babel/preset-env": "^7.19.0",
