@@ -7,11 +7,10 @@ A text editing app useful for writing down code snippets to save. This app is de
 
 ## Table of Contents
 - [Description](#description)
-- [Table of Contents](#table-of-contents)
 - [Installation & Usage](#installation-&-usage)
 - [Deployed Link](#deployed-link)
 - [Demo](#demo)
-- [Built With](#built-with)
+- [Technologies](#technologies)
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
