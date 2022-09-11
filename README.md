@@ -33,7 +33,7 @@ The link to the deployed application is: https://text-editor-pwa3232.herokuapp.c
 
 
 ## Demo
-Below is the demostration of this application. 
+Below is the demostration of this application. <br>
 ![text-editor-demo-gif](./assets/text-editor-gif.gif)
 
 
