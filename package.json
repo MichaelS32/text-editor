@@ -17,6 +17,10 @@
   },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelS32/text-editor/issues"
+  },
+  "homepage": "https://github.com/MichaelS32/text-editor#readme",
   "dependencies": {
     "express": "^4.17.1",
     "if-env": "^1.0.4",
@@ -24,7 +28,8 @@
   },
   "devDependencies": {
     "concurrently": "^5.3.0",
-    "nodemon": "^2.0.19"
+    "nodemon": "^2.0.19",
+    "webpack": "^5.66.0"
   },
   "engines": {
     "node": "16.15.1",
